@@ -6,7 +6,17 @@
     "description": "Explore Digimon Alysion with card lists, deck building strategies, character guides, battle mechanics, beginner tips, release updates, and mobile game news.",
     "legalNotice": "Non-official fan wiki. Digimon and related trademarks belong to their respective owners."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "cards": "Cards",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "platforms": "Platforms",
+    "community": "Community",
+    "media": "Media",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Digimon Alysion Wiki - Cards, Decks & Guides",
@@ -409,7 +419,34 @@
       "secondary": "Pre-Register for iOS & Android"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Digimon Alysion Guides",
+    "overviewDescription": "Start with Digimon Alysion beginner guides, release coverage, beta details, pre-registration steps, and story mode basics."
+  },
+  "cards": {
+    "overviewTitle": "Digimon Alysion Cards",
+    "overviewDescription": "Track Digimon Alysion card reveals, card pools, exclusive cards, starter decks, and practical deck-building advice."
+  },
+  "characters": {
+    "overviewTitle": "Digimon Alysion Characters",
+    "overviewDescription": "Meet the Digimon Alysion cast, partner Digimon, protagonist, guild figures, and confirmed roster details."
+  },
+  "mechanics": {
+    "overviewTitle": "Digimon Alysion Mechanics",
+    "overviewDescription": "Learn Digimon Alysion card battles, deck ratios, gacha systems, tier-list reasoning, and the evolving meta."
+  },
+  "platforms": {
+    "overviewTitle": "Digimon Alysion Platforms",
+    "overviewDescription": "Check Digimon Alysion release details for iOS, Android, and PC, plus mobile system requirements and pre-registration links."
+  },
+  "community": {
+    "overviewTitle": "Digimon Alysion Community",
+    "overviewDescription": "Follow Digimon Alysion beta gameplay reports, the official Discord, and community discussion across Reddit and social channels."
+  },
+  "media": {
+    "overviewTitle": "Digimon Alysion Media",
+    "overviewDescription": "Watch Digimon Alysion trailers, gameplay breakdowns, and story walkthroughs covering Lacuna, characters, and card battles."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
