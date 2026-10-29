@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Digimon Alysion Wiki",
+    "shortName": "Digimon Alysion",
+    "tagline": "Cards, Decks & Beginner Guides",
+    "description": "Explore Digimon Alysion with card lists, deck building strategies, character guides, battle mechanics, beginner tips, release updates, and mobile game news.",
+    "legalNotice": "Non-official fan wiki. Digimon and related trademarks belong to their respective owners."
   },
   "nav": {
     "races": "Races",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Digimon Alysion Wiki - Cards, Decks & Guides",
+      "description": "Explore Digimon Alysion with card lists, deck building strategies, character guides, battle mechanics, beginner tips, release updates, and mobile game news."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Digital Collectible Card Game",
+      "title": "Digimon Alysion Wiki",
+      "description": "Explore Digimon Alysion, a mobile card game featuring strategic Digimon battles, deck building, exclusive cards, and a story set in the Digimon Liberator universe.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "49 Pre-registration Regions",
+        "2 Mobile Platforms",
+        "2026 Planned Release",
+        "Free-to-Play"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Card List & Deck Builds",
+      "tertiaryCta": "Official Website",
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Digimon Alysion?",
+      "description": "Build your first deck, explore every card, and prepare for launch with free, up-to-date Digimon Alysion guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Pre-Register for iOS & Android"
     }
   },
   "bosses": {
@@ -379,21 +379,22 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Digimon Alysion Wiki",
+    "about": "Digimon Alysion Wiki is an independent fan-built guide hub covering card lists, deck building, battle mechanics, release updates, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Digimon Alysion Wiki. Not affiliated with Bandai Namco Entertainment, Toei Animation, or the official Digimon Alysion team.",
+    "description": "Free-to-play mobile card game with strategic Digimon battles, deck building, and cards from the Digimon Liberator universe.",
+    "playGame": "Pre-Register on iOS & Android",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "officialX": "Official X",
+    "vvBuilder": "Deck Building Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Card Guides",
+    "bossGuides": "Battle Guides",
+    "buildGuide": "Deck Builds",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

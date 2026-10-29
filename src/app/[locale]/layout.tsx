@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://digimonalysion.top";
+const siteUrl = siteConfig.url;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -22,12 +22,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const title = "Digimon Alysion Wiki";
+  const description = "Explore Digimon Alysion with card lists, deck building strategies, character guides, battle mechanics, beginner tips, release updates, and mobile game news.";
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Digimon Alysion Wiki", template: "%s" },
-    description: "Explore Digimon Alysion with card lists, deck building strategies, character guides, battle mechanics, beginner tips, release updates, and mobile game news.",
+    title: { default: title, template: "%s" },
+    description,
     manifest: "/manifest.json",
-    applicationName: "Digimon Alysion Wiki",
+    applicationName: title,
+    alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },
     icons: {
       icon: [
         { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
@@ -36,9 +39,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: "Digimon Alysion Wiki" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    appleWebApp: { capable: true, statusBarStyle: "black-translucent", title },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1200, height: 630, alt: "Digimon Alysion" }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -48,13 +51,18 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   setRequestLocale(locale);
   if (!hasLocale(routing.locales, locale)) notFound();
   const messages = await getMessages({ locale });
+  const sameAs = Object.values(siteConfig.social ?? {}).filter((url): url is string => Boolean(url));
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": `${siteUrl}/#organization`,
     name: siteConfig.name,
+    alternateName: siteConfig.shortName,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png`, width: 512, height: 512 },
+    "image": { "@type": "ImageObject", url: `${siteUrl}/images/hero.webp`, width: 1200, height: 630 },
+    sameAs,
+    contactPoint: { "@type": "ContactPoint", contactType: "customer support", email: siteConfig.supportEmail },
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
