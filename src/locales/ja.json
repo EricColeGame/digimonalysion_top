@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "デジモンアリシオン Wiki",
+    "shortName": "デジモンアリシオン",
+    "tagline": "カード・デッキ・初心者ガイド",
+    "description": "デジモンアリシオン（Digimon Alysion）のカードリスト、デッキ構築戦略、キャラクターガイド、バトルメカニクス、初心者向けのコツ、リリース情報、モバイルゲームの最新ニュースをまとめた攻略Wikiです。",
+    "legalNotice": "非公式のファンWikiです。Digimonおよび関連する商標は、それぞれの権利者に帰属します。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "cards": "カード",
+    "characters": "キャラクター",
+    "mechanics": "ゲームメカニクス",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "media": "メディア",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える"
+  },
+  "home": {
+    "meta": {
+      "title": "デジモンアリシオン Wiki｜カード・デッキ・攻略ガイド",
+      "description": "デジモンアリシオン（Digimon Alysion）のカードリスト、デッキ構築戦略、キャラクターガイド、バトルメカニクス、初心者向けのコツ、リリース情報、モバイルゲームの最新ニュースをまとめた攻略Wikiです。"
+    },
+    "hero": {
+      "eyebrow": "デジタルカードゲーム",
+      "title": "デジモンアリシオン Wiki",
+      "description": "デジモンアリシオン（Digimon Alysion）を徹底解説。戦略性の高いデジモンバトル、デッキ構築、限定カード、そしてDigimon Liberatorの世界を舞台にしたストーリーを備えたモバイルカードゲームです。",
+      "stats": [
+        "49の事前登録地域",
+        "2つのモバイルプラットフォーム",
+        "2026年リリース予定",
+        "基本無料（アプリ内課金あり）"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "カードリストとデッキ構築",
+      "tertiaryCta": "公式サイト",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "デジモンアリシオンを始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "チュートリアルを完了し、共有メモリーゲージを学び、明確な方針を持って最初のデジモンアリシオンデッキを組みましょう。"
+        },
+        {
+          "number": "2",
+          "title": "カードバトルの基本",
+          "description": "セキュリティスタックを守り、デジヴォリューションスタックを積み、相手に無償のターンを与えずに共有メモリーを使うことでバトル画面を攻略します。"
+        },
+        {
+          "number": "3",
+          "title": "デッキ構築",
+          "description": "1つの進化ラインを中心に50枚のデッキをまとめ、コストカーブを確認し、無料のデイリーパックで足りないカードを補いましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ティアリストとメタ",
+          "description": "S、A、B、Cの基準を使って、安定性、テンポ、リソース差、柔軟性からカードとアーキタイプを評価します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま注目の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "カードバトルチュートリアル",
+        "デッキビルダー",
+        "事前登録"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "バトル画面を学び、最初のデッキを組み、デジモンアリシオンでの最初の1週間に役立つ実践的なロードマップを確認しましょう。",
+          "href": "/guide/digimon-alysion-beginner-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "カードバトルチュートリアル",
+          "description": "共有メモリー、デジヴォリューションスタック、セキュリティ、最初の対戦の流れをデジモンアリシオンで理解しましょう。",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial"
+        },
+        {
+          "badge": "メタ",
+          "title": "ティアリストの考え方",
+          "description": "一貫したS、A、B、Cの評価基準で、デジモンアリシオンのカードとアーキタイプを比較します。",
+          "href": "/mechanics/digimon-alysion-tier-list"
+        },
+        {
+          "badge": "人気",
+          "title": "デッキビルダーガイド",
+          "description": "カードの役割、コストカーブ、採用枚数、繰り返し使えるテスト手順を計画してデジモンアリシオンのデッキを作りましょう。",
+          "href": "/mechanics/digimon-alysion-deck-builder"
+        },
+        {
+          "badge": "新着",
+          "title": "カードリスト追跡",
+          "description": "確認済みのデジモンアリシオンカードを追い、すべての公開情報を種類、レベル、コスト、出所ごとに整理します。",
+          "href": "/cards/digimon-alysion-card-list"
+        },
+        {
+          "badge": "人気",
+          "title": "キャラクターとデジモン",
+          "description": "デジモンアリシオンの物語に登場する本堂カナタ、Futre、Valner Dragnogh、GEMMONを紹介します。",
+          "href": "/characters/digimon-alysion-characters"
+        },
+        {
+          "badge": "ストーリー",
+          "title": "ストーリーモードガイド",
+          "description": "Lacuna、Digimon Liberatorのキャンペーン、ストーリーバトルを彩るキャラクターたちを探索しましょう。",
+          "href": "/guide/digimon-alysion-story-mode"
+        },
+        {
+          "badge": "報酬",
+          "title": "事前登録ガイド",
+          "description": "デジモンアリシオンの事前登録手順、達成報酬、リリース時の配布方法を確認します。",
+          "href": "/guide/digimon-alysion-pre-registration"
+        },
+        {
+          "badge": "リリース",
+          "title": "リリース日ガイド",
+          "description": "確認済みのデジモンアリシオン対応プラットフォーム、事前登録状況、リリース時期を確認します。",
+          "href": "/guide/digimon-alysion-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "デジモンアリシオンとは？",
+      "paragraphs": [
+        "デジモンアリシオン（Digimon Alysion）は、メタバース空間Lacunaを舞台にしたバンダイの基本無料モバイルオンラインカードゲームです。プレイヤーはフルダイブ型T.A.L.E.ヘッドセットで世界に入り、D-STORAGEのデッキケースにコレクションを収め、作中カードゲームDigimon Liberatorで対戦します。",
+        "キャンペーンでは、本堂カナタがオンラインの友人FutreとともにDigimon Liberatorを学び、Valner Dragnoghや謎のGEMMONと出会う物語が描かれます。デジモンアリシオンは、ストーリーバトル、ランク戦、カード収集、育成、デッキ構築をiOSとAndroidで楽しめるゲームです。"
+      ],
+      "stats": [
+        {
+          "label": "販売元",
+          "value": "バンダイ"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "iOS・Android"
+        },
+        {
+          "label": "ジャンル",
+          "value": "オンラインカードゲーム"
+        },
+        {
+          "label": "価格",
+          "value": "基本無料（アプリ内課金あり）"
+        },
+        {
+          "label": "舞台",
+          "value": "Lacuna"
+        },
+        {
+          "label": "事前登録",
+          "value": "受付中"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "デジモンアリシオン Wikiを探索",
+      "description": "初心者ガイド、カードバトルの仕組み、デッキ構築のコツ、キャラクター紹介、ストーリー解説、リリース情報からデジモンアリシオンを深く知りましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "デジモンアリシオン初心者ガイド",
+          "description": "ゲームの主要システム、カードバトルのルール、基本操作、ストーリーモードの進め方を初心者向けに解説します。",
+          "href": "/guide/digimon-alysion-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "チュートリアルを完了し、受け取れる事前登録報酬をすべて獲得しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "スターターデッキのカードをすべて読み、勝利条件を確認しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "練習試合を3回行い、バトル画面とターンの流れを覚えましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "デッキを1つの進化ラインと明確な戦略に絞り込みましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "無料のデイリーパックを開き、今後のデッキ用に新しいカードを記録しましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "ランク戦やイベントに参加し、3〜5枚ずつカードを調整しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "デジモンアリシオン カードバトルガイド",
+          "description": "デジモンのカードバトルの基本ルール、デッキ構築の考え方、カード効果、戦略的な判断を学びます。",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "メモリー",
+              "detail": "共有メモリーゲージがターン順を決めます。使いすぎると残りは相手に渡ります。"
+            },
+            {
+              "label": "デジヴォリューション",
+              "detail": "上位レベルのカードをデジモンの上に重ね、継承効果でスタックを強化します。"
+            },
+            {
+              "label": "セキュリティ",
+              "detail": "攻撃でセキュリティスタックを削るため、盤面構築と同じくらい圧力が重要です。"
+            },
+            {
+              "label": "育成",
+              "detail": "デジタマは育成エリアで成長し、タイミングが来ればバトルに送り出せます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "デジモンアリシオン ティアリスト",
+          "description": "安定性、テンポ、リソース差、柔軟性、扱いやすさから、カード、デジモンの進化ライン、デッキアーキタイプを評価します。",
+          "href": "/mechanics/digimon-alysion-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "効率的な効果と不利な対面の少なさを備え、環境を定義するカード。"
+            },
+            {
+              "label": "A",
+              "detail": "信頼できる戦術と強力な回答を持つ、柔軟な競技向けカード。"
+            },
+            {
+              "label": "B",
+              "detail": "周囲のメタと対面分布に左右される、堅実な選択肢。"
+            },
+            {
+              "label": "C",
+              "detail": "適切なデッキで特定の問題を解決する、ニッチな技術的選択肢。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "デジモンアリシオンのカードとデッキ構築",
+          "description": "コレクションカード、カードの種類、進化に関わる仕組み、効果的なデッキを作る戦略を解説します。",
+          "href": "/mechanics/digimon-alysion-deck-builder",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "核",
+              "detail": "1つの進化ラインを選び、すべての枠がデッキの主計画を支えるようにします。"
+            },
+            {
+              "label": "カーブ",
+              "detail": "序盤に使える低コストの札を十分に確保し、動けない初手を避けます。"
+            },
+            {
+              "label": "枚数",
+              "detail": "戦略の中心カードは最大枚数採用し、状況依存の1枚挿しを削ります。"
+            },
+            {
+              "label": "検証",
+              "detail": "1か所だけ変更して5試合行い、各試合を落としたターンを記録します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "デジモンアリシオンのキャラクターとデジモン",
+          "description": "主要キャラクター、パートナーデジモン、Digimon Liberatorの世界とのつながりを紹介します。",
+          "href": "/characters/digimon-alysion-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "カナタ",
+              "detail": "本堂カナタは明るいカジュアルゲーマーで、カードゲームは初心者です。"
+            },
+            {
+              "label": "Futre",
+              "detail": "Futreはカナタのオンライン友達で、何かの秘密を隠しているようです。"
+            },
+            {
+              "label": "Valner",
+              "detail": "Valner Dragnoghは、デジモンの自由を掲げるDi:WOギルドを率いています。"
+            },
+            {
+              "label": "GEMMON",
+              "detail": "GEMMONは額に独特の宝石を持つ、謎めいた雪白色のデジモンです。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "デジモンアリシオンのコードと報酬",
+          "description": "事前登録の報酬マイルストーン、キャンペーンボーナス、リリース報酬がゲーム内メールに届く仕組みを確認します。",
+          "href": "/guide/digimon-alysion-pre-registration",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "50K",
+              "detail": "登録5万件でパックチケット[BD-01]×10が解放されます。"
+            },
+            {
+              "label": "100K",
+              "detail": "登録10万件でBD1-02 GEMMONカードが解放されます。"
+            },
+            {
+              "label": "150K",
+              "detail": "登録15万件でBT1-044 メタルガルルモンカードが解放されます。"
+            },
+            {
+              "label": "200K",
+              "detail": "登録20万件でBT1-025 ウォーグレイモンカードが解放されます。"
+            },
+            {
+              "label": "メール",
+              "detail": "キャンペーン報酬はデジモンアリシオンのリリース時にゲーム内メールで届きます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "デジモンアリシオン ストーリーモードガイド",
+          "description": "ストーリーモードの前提、主要キャラクター、進行構造、Lacunaを舞台にした物語の特徴を追います。",
+          "href": "/guide/digimon-alysion-story-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lacuna",
+              "detail": "Lacunaはデジモンアリシオンのプレイヤーが集い、競い合うメタバースの拠点です。"
+            },
+            {
+              "label": "Liberator",
+              "detail": "Digimon Liberatorはキャンペーンの中心となる作中カードゲームです。"
+            },
+            {
+              "label": "キャンペーン",
+              "detail": "ストーリーバトルで章が解放され、短いセッションでカードプールを学べます。"
+            },
+            {
+              "label": "カナタ",
+              "detail": "本堂カナタはオンライン友達Futreの招待を受けてLacunaへ入ります。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "デジモンアリシオンのリリース日と事前登録",
+          "description": "発表済みのリリース時期、対応モバイルプラットフォーム、事前登録手順、キャンペーン報酬を確認します。",
+          "href": "/guide/digimon-alysion-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "iOS",
+              "detail": "iPhoneとiPad向けにApp Storeでデジモンアリシオンの事前登録ができます。"
+            },
+            {
+              "label": "Android",
+              "detail": "Android端末向けにGoogle Playでデジモンアリシオンの事前登録ができます。"
+            },
+            {
+              "label": "リリース",
+              "detail": "バンダイは具体的な配信日を発表しておらず、予定時期は2026年です。"
+            },
+            {
+              "label": "メール",
+              "detail": "事前登録報酬はリリース時にゲーム内メールで配布されます。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "デジモンアリシオンについてよく寄せられる質問への簡単な回答です。",
+      "items": [
+        {
+          "question": "デジモンアリシオンとは何ですか？",
+          "answer": "デジモンアリシオンは、メタバース空間Lacunaを舞台にしたバンダイの基本無料モバイルオンラインカードゲームです。プレイヤーはカードを集めてデッキを組み、作中ゲームDigimon Liberatorで対戦しながら本堂カナタの物語を追います。"
+        },
+        {
+          "question": "デジモンアリシオンは無料で遊べますか？",
+          "answer": "はい。デジモンアリシオンは無料でダウンロードして遊べ、任意のアプリ内課金があります。無料のデイリーパックも用意されており、新規プレイヤーは課金せずにコレクションを広げられます。"
+        },
+        {
+          "question": "カードゲームの経験がなくても遊べますか？",
+          "answer": "はい。デジモンアリシオンには、カードの配置、使い方、共有メモリー、デジヴォリューション、バトルの基本を教えるチュートリアルがあり、その後にランク戦へ進めます。"
+        },
+        {
+          "question": "デジモンアリシオンはいつ遊べますか？",
+          "answer": "デジモンアリシオンは2026年のリリースが予定され、iOSとAndroidで事前登録を受け付けています。バンダイは具体的な配信日を発表しておらず、事前登録報酬はリリース時にゲーム内メールで届きます。"
+        },
+        {
+          "question": "デジモンアリシオンのデッキ構築はどう進めますか？",
+          "answer": "デジモンアリシオンのデッキ構築は、1つの進化ラインを中心にした50枚のデッキから始まります。コストカーブを確認し、序盤に使える低コスト札を確保し、ランク戦に入る前に数試合単位で変更を試します。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "デジモンアリシオンを極めませんか？",
+      "description": "最初のデッキを組み、すべてのカードを探し、無料で更新されるデジモンアリシオンガイドでリリースに備えましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "iOS・Androidで事前登録"
+    }
+  },
+  "guide": {
+    "overviewTitle": "デジモンアリシオン ガイド",
+    "overviewDescription": "デジモンアリシオンの初心者ガイド、リリース情報、ベータ版の詳細、事前登録手順、ストーリーモードの基本から始めましょう。"
+  },
+  "cards": {
+    "overviewTitle": "デジモンアリシオン カード",
+    "overviewDescription": "デジモンアリシオンのカード公開情報、カードプール、限定カード、スターターデッキ、実践的なデッキ構築のコツを追います。"
+  },
+  "characters": {
+    "overviewTitle": "デジモンアリシオン キャラクター",
+    "overviewDescription": "デジモンアリシオンの登場人物、パートナーデジモン、主人公、ギルドの重要人物、確認済みのキャラクター情報を紹介します。"
+  },
+  "mechanics": {
+    "overviewTitle": "デジモンアリシオン ゲームメカニクス",
+    "overviewDescription": "デジモンアリシオンのカードバトル、デッキ比率、ガチャシステム、ティアリストの考え方、変化するメタを学びます。"
+  },
+  "platforms": {
+    "overviewTitle": "デジモンアリシオン プラットフォーム",
+    "overviewDescription": "iOS、Android、PC向けのデジモンアリシオンリリース情報、モバイル動作環境、事前登録リンクを確認します。"
+  },
+  "community": {
+    "overviewTitle": "デジモンアリシオン コミュニティ",
+    "overviewDescription": "デジモンアリシオンのベータ版プレイレポート、公式Discord、RedditやSNSでのコミュニティ議論を追います。"
+  },
+  "media": {
+    "overviewTitle": "デジモンアリシオン メディア",
+    "overviewDescription": "Lacuna、キャラクター、カードバトルを扱うデジモンアリシオンのトレーラー、ゲームプレイ解説、ストーリー動画を視聴できます。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "preRegister": "事前登録",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。後ほどもう一度ご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "デジモンアリシオン Wiki",
+    "about": "デジモンアリシオン Wikiは、カードリスト、デッキ構築、バトルメカニクス、リリース情報、ゲームの基礎知識を扱う独立したファン制作のガイドハブです。初心者からベテランまで幅広く役立つ情報を掲載しています。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 デジモンアリシオン Wiki。Bandai Namco Entertainment、東映アニメーション、公式デジモンアリシオンチームとは提携していません。",
+    "description": "戦略性の高いデジモンバトル、デッキ構築、Digimon Liberatorの世界のカードを楽しめる基本無料モバイルカードゲームです。",
+    "playGame": "iOS・Androidで事前登録",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "officialX": "公式X",
+    "vvBuilder": "デッキ構築ガイド",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "カードガイド",
+    "bossGuides": "バトルガイド",
+    "buildGuide": "デッキ構築",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

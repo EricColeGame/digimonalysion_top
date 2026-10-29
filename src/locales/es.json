@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Digimon Alysion",
+    "shortName": "Digimon Alysion",
+    "tagline": "Cartas, mazos y guías para principiantes",
+    "description": "Explora Digimon Alysion con listas de cartas, estrategias de construcción de mazos, guías de personajes, mecánicas de combate, consejos para principiantes, novedades de lanzamiento y noticias del juego móvil.",
+    "legalNotice": "Wiki de fans no oficial. Digimon y sus marcas relacionadas pertenecen a sus respectivos propietarios."
+  },
+  "nav": {
+    "guide": "Guía",
+    "cards": "Cartas",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "media": "Multimedia",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Digimon Alysion: cartas, mazos y guías",
+      "description": "Explora Digimon Alysion con listas de cartas, estrategias de construcción de mazos, guías de personajes, mecánicas de combate, consejos para principiantes, novedades de lanzamiento y noticias del juego móvil."
+    },
+    "hero": {
+      "eyebrow": "Juego de cartas coleccionables digital",
+      "title": "Wiki de Digimon Alysion",
+      "description": "Explora Digimon Alysion, un juego de cartas móvil con combates estratégicos de Digimon, construcción de mazos, cartas exclusivas y una historia ambientada en el universo de Digimon Liberator.",
+      "stats": [
+        "49 regiones con prerregistro",
+        "2 plataformas móviles",
+        "Lanzamiento previsto en 2026",
+        "Gratis con compras integradas"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Lista de cartas y mazos",
+      "tertiaryCta": "Sitio oficial",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Digimon Alysion",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Completa el tutorial guiado, aprende el medidor de memoria compartida y construye tu primer mazo de Digimon Alysion con un plan claro."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos del combate de cartas",
+          "description": "Domina la pantalla de combate protegiendo tu pila de seguridad, creando pilas de digievolución y administrando la memoria compartida sin regalarle un turno al rival."
+        },
+        {
+          "number": "3",
+          "title": "Construcción de mazos",
+          "description": "Crea un mazo enfocado de 50 cartas alrededor de una línea evolutiva, revisa la curva de costes y deja que el sobre diario gratuito cubra los huecos."
+        },
+        {
+          "number": "4",
+          "title": "Lista de niveles y meta",
+          "description": "Usa los criterios S, A, B y C para evaluar cartas y arquetipos por consistencia, ritmo, ventaja de recursos y flexibilidad."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Tutorial de combate de cartas",
+        "Constructor de mazos",
+        "Prerregistro"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Aprende la pantalla de combate, construye tu primer mazo y sigue una hoja de ruta práctica para la primera semana en Digimon Alysion.",
+          "href": "/guide/digimon-alysion-beginner-guide"
+        },
+        {
+          "badge": "Esencial",
+          "title": "Tutorial de combate de cartas",
+          "description": "Comprende la memoria compartida, las pilas de digievolución, la seguridad y el flujo de la primera partida en Digimon Alysion.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial"
+        },
+        {
+          "badge": "Meta",
+          "title": "Marco para la lista de niveles",
+          "description": "Compara cartas y arquetipos de Digimon Alysion con criterios coherentes de evaluación S, A, B y C.",
+          "href": "/mechanics/digimon-alysion-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía del constructor de mazos",
+          "description": "Planifica roles de cartas, curvas de costes, número de copias y una rutina de pruebas repetible para tus mazos de Digimon Alysion.",
+          "href": "/mechanics/digimon-alysion-deck-builder"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Seguimiento de la lista de cartas",
+          "description": "Sigue las cartas confirmadas de Digimon Alysion y organiza cada revelación por tipo, nivel, coste y fuente.",
+          "href": "/cards/digimon-alysion-card-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Personajes y Digimon",
+          "description": "Conoce a Kanata Hondo, Futre, Valner Dragnogh y GEMMON en la historia de Digimon Alysion.",
+          "href": "/characters/digimon-alysion-characters"
+        },
+        {
+          "badge": "Historia",
+          "title": "Guía del modo historia",
+          "description": "Explora Lacuna, la campaña de Digimon Liberator y los personajes que protagonizan los combates de la historia.",
+          "href": "/guide/digimon-alysion-story-mode"
+        },
+        {
+          "badge": "Recompensas",
+          "title": "Guía de prerregistro",
+          "description": "Consulta los pasos del prerregistro de Digimon Alysion, las recompensas por hitos y la entrega de premios en el lanzamiento.",
+          "href": "/guide/digimon-alysion-pre-registration"
+        },
+        {
+          "badge": "Lanzamiento",
+          "title": "Guía de la fecha de lanzamiento",
+          "description": "Revisa las plataformas confirmadas de Digimon Alysion, el estado del prerregistro y el calendario de lanzamiento.",
+          "href": "/guide/digimon-alysion-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Digimon Alysion?",
+      "paragraphs": [
+        "Digimon Alysion es el juego de cartas en línea gratuito de Bandai para móviles, ambientado en el espacio del metaverso Lacuna. Los jugadores entran en ese mundo mediante un casco de inmersión total T.A.L.E., llevan su colección en un estuche de mazos D-STORAGE y combaten en el juego de cartas Digimon Liberator.",
+        "La campaña sigue a Kanata Hondo mientras aprende Digimon Liberator con su amiga en línea Futre y se cruza con Valner Dragnogh y el misterioso GEMMON. Digimon Alysion combina combates guiados de la historia, partidas clasificatorias, colección de cartas, crianza y construcción de mazos en iOS y Android."
+      ],
+      "stats": [
+        {
+          "label": "Distribuidora",
+          "value": "Bandai"
+        },
+        {
+          "label": "Plataforma",
+          "value": "iOS y Android"
+        },
+        {
+          "label": "Género",
+          "value": "Juego de cartas en línea"
+        },
+        {
+          "label": "Precio",
+          "value": "Gratis con compras integradas"
+        },
+        {
+          "label": "Ambientación",
+          "value": "Lacuna"
+        },
+        {
+          "label": "Prerregistro",
+          "value": "Abierto"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Digimon Alysion",
+      "description": "Explora Digimon Alysion con guías para principiantes, mecánicas de combate de cartas, consejos de construcción de mazos, perfiles de personajes, cobertura de la historia y novedades de lanzamiento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Digimon Alysion",
+          "description": "Comprende los sistemas principales, las reglas de combate de cartas, los controles básicos y el avance del modo historia con una guía sencilla para nuevos jugadores.",
+          "href": "/guide/digimon-alysion-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Termina el tutorial guiado y reclama las recompensas de prerregistro disponibles."
+            },
+            {
+              "label": "2",
+              "detail": "Lee todas las cartas del mazo inicial e identifica su condición de victoria."
+            },
+            {
+              "label": "3",
+              "detail": "Juega tres partidas de práctica para aprender la pantalla de combate y el flujo de turnos."
+            },
+            {
+              "label": "4",
+              "detail": "Reduce el mazo a una línea evolutiva y una estrategia clara."
+            },
+            {
+              "label": "5",
+              "detail": "Abre el sobre diario gratuito y registra las cartas nuevas para futuras versiones del mazo."
+            },
+            {
+              "label": "6",
+              "detail": "Entra en partidas clasificatorias o eventos y ajusta de tres a cinco cartas a la vez."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de combate de cartas de Digimon Alysion",
+          "description": "Aprende las reglas fundamentales de los combates de cartas de Digimon, los conceptos de construcción de mazos, los efectos de las cartas y la toma de decisiones estratégicas.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Memoria",
+              "detail": "El medidor de memoria compartida decide el orden de turno; si gastas de más, el resto pasa al rival."
+            },
+            {
+              "label": "Digievolución",
+              "detail": "Coloca cartas de nivel superior sobre un Digimon para que los efectos heredados refuercen la pila."
+            },
+            {
+              "label": "Seguridad",
+              "detail": "Los ataques reducen la pila de seguridad, así que presionar importa tanto como construir el tablero."
+            },
+            {
+              "label": "Crianza",
+              "detail": "Los huevos se desarrollan en la zona de crianza y pueden entrar en combate cuando llegue el momento."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Lista de niveles de Digimon Alysion",
+          "description": "Evalúa cartas, líneas de Digimon y arquetipos de mazo por consistencia, ritmo, ventaja de recursos, flexibilidad y facilidad de uso.",
+          "href": "/mechanics/digimon-alysion-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Cartas que definen el formato, con efectos eficientes y pocos enfrentamientos desfavorables."
+            },
+            {
+              "label": "A",
+              "detail": "Opciones competitivas flexibles con planes fiables y respuestas sólidas."
+            },
+            {
+              "label": "B",
+              "detail": "Opciones consistentes que dependen del meta y del conjunto de enfrentamientos."
+            },
+            {
+              "label": "C",
+              "detail": "Elecciones técnicas de nicho que resuelven un problema concreto en la versión adecuada del mazo."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Cartas y construcción de mazos en Digimon Alysion",
+          "description": "Explora las cartas coleccionables, los tipos de carta, las mecánicas relacionadas con la evolución y las estrategias para crear mazos eficaces.",
+          "href": "/mechanics/digimon-alysion-deck-builder",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Núcleo",
+              "detail": "Elige una línea evolutiva y haz que cada espacio apoye el plan principal del mazo."
+            },
+            {
+              "label": "Curva",
+              "detail": "Mantén suficientes jugadas baratas para evitar manos iniciales sin opciones."
+            },
+            {
+              "label": "Copias",
+              "detail": "Usa el máximo de copias de las cartas centrales y recorta las cartas situacionales."
+            },
+            {
+              "label": "Pruebas",
+              "detail": "Cambia una parte, juega cinco partidas y anota en qué turno se perdió cada una."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Personajes y Digimon de Digimon Alysion",
+          "description": "Conoce a los personajes principales, sus Digimon compañeros y las conexiones con el universo de Digimon Liberator.",
+          "href": "/characters/digimon-alysion-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kanata",
+              "detail": "Kanata Hondo es una jugadora casual alegre que se inicia en los juegos de cartas."
+            },
+            {
+              "label": "Futre",
+              "detail": "Futre es la amiga en línea de Kanata y parece ocultar un secreto."
+            },
+            {
+              "label": "Valner",
+              "detail": "Valner Dragnogh lidera el gremio Di:WO, que defiende la libertad de los Digimon."
+            },
+            {
+              "label": "GEMMON",
+              "detail": "GEMMON es un misterioso Digimon blanco como la nieve con una gema única en la frente."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Códigos y recompensas de Digimon Alysion",
+          "description": "Revisa los hitos de recompensas del prerregistro, las bonificaciones de campaña y cómo llegan los premios de lanzamiento a tu buzón del juego.",
+          "href": "/guide/digimon-alysion-pre-registration",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "50K",
+              "detail": "El sobre Pack Ticket [BD-01] x10 se desbloquea con 50.000 prerregistros."
+            },
+            {
+              "label": "100K",
+              "detail": "La carta BD1-02 Gemmon se desbloquea con 100.000 prerregistros."
+            },
+            {
+              "label": "150K",
+              "detail": "La carta BT1-044 MetalGarurumon se desbloquea con 150.000 prerregistros."
+            },
+            {
+              "label": "200K",
+              "detail": "La carta BT1-025 WarGreymon se desbloquea con 200.000 prerregistros."
+            },
+            {
+              "label": "Correo",
+              "detail": "Las recompensas de la campaña llegan por correo del juego cuando se lance Digimon Alysion."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía del modo historia de Digimon Alysion",
+          "description": "Sigue la premisa del modo historia, los personajes clave, la estructura de progresión y las funciones narrativas de Lacuna.",
+          "href": "/guide/digimon-alysion-story-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lacuna",
+              "detail": "Lacuna es el centro del metaverso donde se reúnen y compiten los jugadores de Digimon Alysion."
+            },
+            {
+              "label": "Liberator",
+              "detail": "Digimon Liberator es el juego de cartas del mundo ficticio que centra la campaña."
+            },
+            {
+              "label": "Campaña",
+              "detail": "Los combates de la historia desbloquean capítulos y enseñan el conjunto de cartas en sesiones breves."
+            },
+            {
+              "label": "Kanata",
+              "detail": "Kanata Hondo entra en Lacuna tras recibir una invitación de su amiga en línea Futre."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Fecha de lanzamiento y prerregistro de Digimon Alysion",
+          "description": "Consulta la ventana de lanzamiento anunciada, las plataformas móviles compatibles, los pasos del prerregistro y las recompensas de la campaña.",
+          "href": "/guide/digimon-alysion-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "iOS",
+              "detail": "Haz el prerregistro de Digimon Alysion en la App Store para iPhone y iPad."
+            },
+            {
+              "label": "Android",
+              "detail": "Haz el prerregistro de Digimon Alysion en Google Play para dispositivos Android."
+            },
+            {
+              "label": "Lanzamiento",
+              "detail": "Bandai no ha anunciado una fecha concreta; la ventana prevista es 2026."
+            },
+            {
+              "label": "Correo",
+              "detail": "Las recompensas del prerregistro se entregan por correo del juego en el lanzamiento."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Digimon Alysion.",
+      "items": [
+        {
+          "question": "¿Qué es Digimon Alysion?",
+          "answer": "Digimon Alysion es el juego de cartas en línea gratuito para móviles de Bandai, ambientado en el espacio del metaverso Lacuna. Los jugadores coleccionan cartas, construyen mazos y combaten en el juego Digimon Liberator mientras siguen la historia de Kanata Hondo."
+        },
+        {
+          "question": "¿Digimon Alysion es gratis?",
+          "answer": "Sí. Digimon Alysion es gratuito para descargar y jugar, con compras integradas opcionales. El juego también ofrece un sobre diario gratuito que ayuda a los nuevos jugadores a ampliar su colección sin gastar dinero."
+        },
+        {
+          "question": "¿Necesito experiencia en juegos de cartas para jugar a Digimon Alysion?",
+          "answer": "No. Digimon Alysion incluye un tutorial guiado que enseña la disposición de las cartas, su uso, la memoria compartida, la digievolución y los fundamentos del combate antes de pasar a las partidas clasificatorias."
+        },
+        {
+          "question": "¿Cuándo podré jugar a Digimon Alysion?",
+          "answer": "Digimon Alysion tiene previsto su lanzamiento en 2026 y el prerregistro está abierto en iOS y Android. Bandai no ha anunciado una fecha concreta, y las recompensas del prerregistro llegan por correo del juego en el lanzamiento."
+        },
+        {
+          "question": "¿Cómo funciona la construcción de mazos en Digimon Alysion?",
+          "answer": "La construcción de mazos en Digimon Alysion comienza con un mazo enfocado de 50 cartas alrededor de una línea evolutiva. Revisa la curva de costes, mantén suficientes jugadas baratas y prueba los cambios en bloques de partidas antes de entrar en el modo clasificatorio."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Digimon Alysion?",
+      "description": "Construye tu primer mazo, explora todas las cartas y prepárate para el lanzamiento con guías gratuitas y actualizadas de Digimon Alysion.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Prerregistrarse para iOS y Android"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Digimon Alysion",
+    "overviewDescription": "Empieza con guías para principiantes de Digimon Alysion, cobertura del lanzamiento, detalles de la beta, pasos del prerregistro y fundamentos del modo historia."
+  },
+  "cards": {
+    "overviewTitle": "Cartas de Digimon Alysion",
+    "overviewDescription": "Sigue las revelaciones de cartas de Digimon Alysion, los grupos de cartas, las cartas exclusivas, los mazos iniciales y consejos prácticos de construcción de mazos."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Digimon Alysion",
+    "overviewDescription": "Conoce al elenco de Digimon Alysion, los Digimon compañeros, la protagonista, las figuras de los gremios y los detalles confirmados del reparto."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Digimon Alysion",
+    "overviewDescription": "Aprende los combates de cartas, las proporciones de los mazos, los sistemas gacha, el razonamiento de las listas de niveles y el meta en evolución de Digimon Alysion."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Digimon Alysion",
+    "overviewDescription": "Consulta los detalles de lanzamiento de Digimon Alysion para iOS, Android y PC, además de los requisitos móviles y los enlaces de prerregistro."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Digimon Alysion",
+    "overviewDescription": "Sigue los informes de la beta de Digimon Alysion, el Discord oficial y las conversaciones de la comunidad en Reddit y redes sociales."
+  },
+  "media": {
+    "overviewTitle": "Multimedia de Digimon Alysion",
+    "overviewDescription": "Mira tráileres de Digimon Alysion, análisis de jugabilidad y recorridos de la historia sobre Lacuna, los personajes y los combates de cartas."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "preRegister": "Prerregistrarse",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Digimon Alysion",
+    "about": "La Wiki de Digimon Alysion es un centro de guías independiente creado por fans que cubre listas de cartas, construcción de mazos, mecánicas de combate, novedades de lanzamiento y conocimientos esenciales del juego para jugadores nuevos y veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Wiki de Digimon Alysion. Sin afiliación con Bandai Namco Entertainment, Toei Animation ni el equipo oficial de Digimon Alysion.",
+    "description": "Juego de cartas móvil gratuito con combates estratégicos de Digimon, construcción de mazos y cartas del universo de Digimon Liberator.",
+    "playGame": "Prerregistrarse en iOS y Android",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "officialX": "X oficial",
+    "vvBuilder": "Guía de construcción de mazos",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de cartas",
+    "bossGuides": "Guías de combate",
+    "buildGuide": "Mazos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

@@ -257,14 +257,40 @@ const GROUP_TITLES_JA: Record<string, string> = {
   media: "メディア",
 };
 
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  cards: "Cartas",
+  characters: "Personajes",
+  mechanics: "Mecánicas",
+  platforms: "Plataformas",
+  community: "Comunidad",
+  media: "Multimedia",
+};
+
+// 韩语分组标题映射
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "가이드",
+  cards: "카드",
+  characters: "캐릭터",
+  mechanics: "게임 메커니즘",
+  platforms: "플랫폼",
+  community: "커뮤니티",
+  media: "미디어",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  ko: GROUP_TITLES_KO,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  ko: "개요",
 };
 
 // 分组排序顺序

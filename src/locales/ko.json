@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "디지몬 알리시온 위키",
+    "shortName": "디지몬 알리시온",
+    "tagline": "카드, 덱, 초보자 가이드",
+    "description": "디지몬 알리시온(Digimon Alysion)의 카드 목록, 덱 빌딩 전략, 캐릭터 가이드, 전투 메커니즘, 초보자 팁, 출시 소식, 모바일 게임 뉴스를 한곳에서 확인하세요.",
+    "legalNotice": "비공식 팬 위키입니다. Digimon 및 관련 상표는 각 권리자에게 있습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "cards": "카드",
+    "characters": "캐릭터",
+    "mechanics": "게임 메커니즘",
+    "platforms": "플랫폼",
+    "community": "커뮤니티",
+    "media": "미디어",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "home": {
+    "meta": {
+      "title": "디지몬 알리시온 위키: 카드, 덱, 가이드",
+      "description": "디지몬 알리시온(Digimon Alysion)의 카드 목록, 덱 빌딩 전략, 캐릭터 가이드, 전투 메커니즘, 초보자 팁, 출시 소식, 모바일 게임 뉴스를 한곳에서 확인하세요."
+    },
+    "hero": {
+      "eyebrow": "디지털 카드 게임",
+      "title": "디지몬 알리시온 위키",
+      "description": "전략적인 디지몬 전투, 덱 빌딩, 한정 카드, Digimon Liberator 세계관의 스토리를 갖춘 모바일 카드 게임 디지몬 알리시온(Digimon Alysion)을 살펴보세요.",
+      "stats": [
+        "49개 사전 등록 지역",
+        "2개 모바일 플랫폼",
+        "2026년 출시 예정",
+        "무료 플레이(인앱 구매 포함)"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "카드 목록과 덱 빌딩",
+      "tertiaryCta": "공식 웹사이트",
+      "videoLabel": "공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "디지몬 알리시온 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "안내형 튜토리얼을 완료하고 공유 메모리 게이지를 익힌 뒤, 명확한 계획으로 첫 디지몬 알리시온 덱을 만들어 보세요."
+        },
+        {
+          "number": "2",
+          "title": "카드 전투 기초",
+          "description": "보안 스택을 지키고 디지볼루션 스택을 쌓으며, 상대에게 공짜 턴을 주지 않도록 공유 메모리를 사용해 전투 화면을 마스터하세요."
+        },
+        {
+          "number": "3",
+          "title": "덱 빌딩",
+          "description": "하나의 진화 계보를 중심으로 50장 덱을 구성하고 비용 곡선을 확인하며, 무료 일일 팩으로 빈자리를 채우세요."
+        },
+        {
+          "number": "4",
+          "title": "티어 리스트와 메타",
+          "description": "S, A, B, C 기준으로 일관성, 템포, 자원 우위, 유연성을 따져 카드와 아키타입을 평가하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기 있는 콘텐츠",
+      "quickLinks": [
+        "초보자 가이드",
+        "카드 전투 튜토리얼",
+        "덱 빌더",
+        "사전 등록"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "디지몬 알리시온의 전투 화면을 익히고 첫 덱을 만든 뒤, 첫 주에 실천할 수 있는 로드맵을 따라가세요.",
+          "href": "/guide/digimon-alysion-beginner-guide"
+        },
+        {
+          "badge": "핵심",
+          "title": "카드 전투 튜토리얼",
+          "description": "디지몬 알리시온의 공유 메모리, 디지볼루션 스택, 보안, 첫 대전 흐름을 이해하세요.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial"
+        },
+        {
+          "badge": "메타",
+          "title": "티어 리스트 프레임워크",
+          "description": "일관된 S, A, B, C 평가 기준으로 디지몬 알리시온 카드와 아키타입을 비교하세요.",
+          "href": "/mechanics/digimon-alysion-tier-list"
+        },
+        {
+          "badge": "인기",
+          "title": "덱 빌더 가이드",
+          "description": "카드 역할, 비용 곡선, 채용 장수, 반복 가능한 테스트 루틴을 계획해 디지몬 알리시온 덱을 구성하세요.",
+          "href": "/mechanics/digimon-alysion-deck-builder"
+        },
+        {
+          "badge": "신규",
+          "title": "카드 목록 추적",
+          "description": "확정된 디지몬 알리시온 카드를 추적하고 모든 공개 정보를 유형, 레벨, 비용, 출처별로 정리하세요.",
+          "href": "/cards/digimon-alysion-card-list"
+        },
+        {
+          "badge": "인기",
+          "title": "캐릭터와 디지몬",
+          "description": "디지몬 알리시온 스토리의 혼도 카나타, Futre, Valner Dragnogh, GEMMON을 만나 보세요.",
+          "href": "/characters/digimon-alysion-characters"
+        },
+        {
+          "badge": "스토리",
+          "title": "스토리 모드 가이드",
+          "description": "Lacuna, Digimon Liberator 캠페인, 스토리 전투를 이끄는 캐릭터들을 살펴보세요.",
+          "href": "/guide/digimon-alysion-story-mode"
+        },
+        {
+          "badge": "보상",
+          "title": "사전 등록 가이드",
+          "description": "디지몬 알리시온 사전 등록 절차, 단계별 보상, 출시 시 지급 방식을 확인하세요.",
+          "href": "/guide/digimon-alysion-pre-registration"
+        },
+        {
+          "badge": "출시",
+          "title": "출시일 가이드",
+          "description": "확정된 디지몬 알리시온 플랫폼, 사전 등록 현황, 출시 일정을 확인하세요.",
+          "href": "/guide/digimon-alysion-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "디지몬 알리시온이란?",
+      "paragraphs": [
+        "디지몬 알리시온(Digimon Alysion)은 메타버스 공간 Lacuna를 배경으로 한 반다이의 무료 모바일 온라인 카드 게임입니다. 플레이어는 풀다이브 T.A.L.E. 헤드셋으로 세계에 들어가 D-STORAGE 덱 케이스에 컬렉션을 담고, 게임 속 카드 게임 Digimon Liberator에서 대전합니다.",
+        "캠페인은 혼도 카나타가 온라인 친구 Futre와 함께 Digimon Liberator를 배우며 Valner Dragnogh와 수수께끼의 GEMMON을 만나는 이야기를 그립니다. 디지몬 알리시온은 스토리 전투, 랭크전, 카드 수집, 육성, 덱 빌딩을 iOS와 Android에서 즐기는 게임입니다."
+      ],
+      "stats": [
+        {
+          "label": "퍼블리셔",
+          "value": "반다이"
+        },
+        {
+          "label": "플랫폼",
+          "value": "iOS 및 Android"
+        },
+        {
+          "label": "장르",
+          "value": "온라인 카드 게임"
+        },
+        {
+          "label": "가격",
+          "value": "무료 플레이(인앱 구매 포함)"
+        },
+        {
+          "label": "배경",
+          "value": "Lacuna"
+        },
+        {
+          "label": "사전 등록",
+          "value": "진행 중"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "디지몬 알리시온 위키 둘러보기",
+      "description": "초보자 가이드, 카드 전투 메커니즘, 덱 빌딩 팁, 캐릭터 소개, 스토리 해설, 출시 업데이트를 통해 디지몬 알리시온을 알아보세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "디지몬 알리시온 초보자 가이드",
+          "description": "게임의 핵심 시스템, 카드 전투 규칙, 기본 조작, 스토리 모드 진행 방법을 초보자 눈높이에서 설명합니다.",
+          "href": "/guide/digimon-alysion-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "안내형 튜토리얼을 완료하고 받을 수 있는 사전 등록 보상을 모두 수령하세요."
+            },
+            {
+              "label": "2",
+              "detail": "스타터 덱의 모든 카드를 읽고 승리 조건을 파악하세요."
+            },
+            {
+              "label": "3",
+              "detail": "연습 대전을 세 번 치르며 전투 화면과 턴 흐름을 익히세요."
+            },
+            {
+              "label": "4",
+              "detail": "덱을 하나의 진화 계보와 명확한 전략으로 좁히세요."
+            },
+            {
+              "label": "5",
+              "detail": "무료 일일 팩을 열고 새 카드를 향후 덱 구성용으로 기록하세요."
+            },
+            {
+              "label": "6",
+              "detail": "랭크전이나 이벤트에 참가한 뒤 한 번에 3~5장씩 조정하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "디지몬 알리시온 카드 전투 가이드",
+          "description": "디지몬 카드 전투의 기본 규칙, 덱 빌딩 개념, 카드 효과, 전략적 의사 결정을 배웁니다.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "메모리",
+              "detail": "공유 메모리 게이지가 턴 순서를 결정합니다. 초과 사용하면 남은 메모리는 상대에게 넘어갑니다."
+            },
+            {
+              "label": "디지볼루션",
+              "detail": "상위 레벨 카드를 디지몬 위에 올려 상속 효과로 스택을 강화하세요."
+            },
+            {
+              "label": "보안",
+              "detail": "공격은 보안 스택을 깎으므로, 보드를 만드는 것만큼 압박을 가하는 것도 중요합니다."
+            },
+            {
+              "label": "육성",
+              "detail": "디지타마는 육성 구역에서 성장하며 적절한 시점에 전투로 이동할 수 있습니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "디지몬 알리시온 티어 리스트",
+          "description": "일관성, 템포, 자원 우위, 유연성, 난이도에 따라 카드, 디지몬 계보, 덱 아키타입을 평가합니다.",
+          "href": "/mechanics/digimon-alysion-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "효율적인 효과와 적은 불리한 상성을 갖춘, 환경을 정의하는 카드."
+            },
+            {
+              "label": "A",
+              "detail": "신뢰할 수 있는 계획과 강력한 대응을 갖춘 유연한 경쟁 카드."
+            },
+            {
+              "label": "B",
+              "detail": "주변 메타와 상성 분포에 따라 성과가 달라지는 견고한 선택지."
+            },
+            {
+              "label": "C",
+              "detail": "적합한 덱에서 특정 문제를 해결하는 틈새 기술 선택지."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "디지몬 알리시온 카드와 덱 빌딩",
+          "description": "수집 카드, 카드 유형, 진화 관련 메커니즘, 효과적인 덱을 만드는 전략을 살펴봅니다.",
+          "href": "/mechanics/digimon-alysion-deck-builder",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "핵심",
+              "detail": "하나의 진화 계보를 선택하고 모든 슬롯이 덱의 주 계획을 뒷받침하게 하세요."
+            },
+            {
+              "label": "곡선",
+              "detail": "초반에 쓸 수 있는 저비용 카드를 충분히 넣어 아무것도 못 하는 첫 패를 피하세요."
+            },
+            {
+              "label": "장수",
+              "detail": "전략의 중심 카드는 최대 장수로 채용하고 상황 의존적인 한 장짜리는 줄이세요."
+            },
+            {
+              "label": "테스트",
+              "detail": "한 부분만 바꾸고 다섯 경기를 치른 뒤 각 게임을 패배한 턴을 기록하세요."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "디지몬 알리시온 캐릭터와 디지몬",
+          "description": "주요 캐릭터, 파트너 디지몬, Digimon Liberator 세계관과의 연결고리를 소개합니다.",
+          "href": "/characters/digimon-alysion-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "카나타",
+              "detail": "혼도 카나타는 카드 게임이 처음인 밝고 캐주얼한 게이머입니다."
+            },
+            {
+              "label": "Futre",
+              "detail": "Futre는 카나타의 온라인 친구이며 무언가 비밀을 숨기고 있는 듯합니다."
+            },
+            {
+              "label": "Valner",
+              "detail": "Valner Dragnogh는 디지몬의 자유를 주장하는 Di:WO 길드를 이끕니다."
+            },
+            {
+              "label": "GEMMON",
+              "detail": "GEMMON은 이마에 독특한 보석이 있는 수수께끼의 눈처럼 흰 디지몬입니다."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "디지몬 알리시온 코드와 보상",
+          "description": "사전 등록 보상 단계, 캠페인 보너스, 출시 보상이 게임 내 우편함으로 전달되는 방식을 확인합니다.",
+          "href": "/guide/digimon-alysion-pre-registration",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "50K",
+              "detail": "사전 등록 5만 건 달성 시 팩 티켓[BD-01] 10장이 해금됩니다."
+            },
+            {
+              "label": "100K",
+              "detail": "사전 등록 10만 건 달성 시 BD1-02 GEMMON 카드가 해금됩니다."
+            },
+            {
+              "label": "150K",
+              "detail": "사전 등록 15만 건 달성 시 BT1-044 메탈가루루몬 카드가 해금됩니다."
+            },
+            {
+              "label": "200K",
+              "detail": "사전 등록 20만 건 달성 시 BT1-025 워그레이몬 카드가 해금됩니다."
+            },
+            {
+              "label": "우편",
+              "detail": "캠페인 보상은 디지몬 알리시온 출시 시 게임 내 우편으로 도착합니다."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "디지몬 알리시온 스토리 모드 가이드",
+          "description": "스토리 모드의 배경, 주요 캐릭터, 진행 구조, Lacuna를 무대로 한 서사적 특징을 살펴봅니다.",
+          "href": "/guide/digimon-alysion-story-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lacuna",
+              "detail": "Lacuna는 디지몬 알리시온 플레이어들이 모여 겨루는 메타버스 거점입니다."
+            },
+            {
+              "label": "Liberator",
+              "detail": "Digimon Liberator는 캠페인의 중심이 되는 게임 속 카드 게임입니다."
+            },
+            {
+              "label": "캠페인",
+              "detail": "스토리 전투로 챕터가 해금되며 짧은 세션을 통해 카드 풀을 배울 수 있습니다."
+            },
+            {
+              "label": "카나타",
+              "detail": "혼도 카나타는 온라인 친구 Futre의 초대를 받고 Lacuna에 들어갑니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "디지몬 알리시온 출시일과 사전 등록",
+          "description": "발표된 출시 시기, 지원 모바일 플랫폼, 사전 등록 절차, 캠페인 보상을 확인합니다.",
+          "href": "/guide/digimon-alysion-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "iOS",
+              "detail": "iPhone과 iPad용 App Store에서 디지몬 알리시온을 사전 등록하세요."
+            },
+            {
+              "label": "Android",
+              "detail": "Android 기기용 Google Play에서 디지몬 알리시온을 사전 등록하세요."
+            },
+            {
+              "label": "출시",
+              "detail": "반다이는 구체적인 출시일을 발표하지 않았으며 예정 시기는 2026년입니다."
+            },
+            {
+              "label": "우편",
+              "detail": "사전 등록 보상은 출시 시 게임 내 우편으로 지급됩니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "디지몬 알리시온에 관해 가장 많이 나오는 질문에 빠르게 답합니다.",
+      "items": [
+        {
+          "question": "디지몬 알리시온은 어떤 게임인가요?",
+          "answer": "디지몬 알리시온은 메타버스 공간 Lacuna를 배경으로 한 반다이의 무료 모바일 온라인 카드 게임입니다. 플레이어는 카드를 모으고 덱을 만들어 게임 속 카드 게임 Digimon Liberator에서 대전하며 혼도 카나타의 이야기를 따라갑니다."
+        },
+        {
+          "question": "디지몬 알리시온은 무료로 플레이할 수 있나요?",
+          "answer": "네. 디지몬 알리시온은 무료로 다운로드하고 플레이할 수 있으며 선택적 인앱 구매가 있습니다. 무료 일일 팩도 제공되어 신규 플레이어가 비용 없이 컬렉션을 넓힐 수 있습니다."
+        },
+        {
+          "question": "카드 게임 경험이 없어도 플레이할 수 있나요?",
+          "answer": "네. 디지몬 알리시온에는 카드 배치, 카드 사용법, 공유 메모리, 디지볼루션, 전투 기초를 가르치는 안내형 튜토리얼이 있어 랭크전으로 넘어가기 전에 기본을 익힐 수 있습니다."
+        },
+        {
+          "question": "디지몬 알리시온은 언제 플레이할 수 있나요?",
+          "answer": "디지몬 알리시온은 2026년 출시 예정이며 iOS와 Android에서 사전 등록을 받고 있습니다. 반다이는 구체적인 출시일을 발표하지 않았고, 사전 등록 보상은 출시 시 게임 내 우편으로 도착합니다."
+        },
+        {
+          "question": "디지몬 알리시온의 덱 빌딩은 어떻게 하나요?",
+          "answer": "디지몬 알리시온의 덱 빌딩은 하나의 진화 계보를 중심으로 한 50장 덱에서 시작합니다. 비용 곡선을 확인하고 초반용 저비용 카드를 충분히 넣은 뒤, 랭크전에 들어가기 전 여러 경기 단위로 변경 사항을 테스트하세요."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "디지몬 알리시온을 마스터할 준비가 되셨나요?",
+      "description": "첫 덱을 만들고 모든 카드를 살펴보며, 무료로 업데이트되는 디지몬 알리시온 가이드로 출시에 대비하세요.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "iOS 및 Android 사전 등록"
+    }
+  },
+  "guide": {
+    "overviewTitle": "디지몬 알리시온 가이드",
+    "overviewDescription": "디지몬 알리시온 초보자 가이드, 출시 소식, 베타 정보, 사전 등록 절차, 스토리 모드 기초부터 시작하세요."
+  },
+  "cards": {
+    "overviewTitle": "디지몬 알리시온 카드",
+    "overviewDescription": "디지몬 알리시온 카드 공개 정보, 카드 풀, 한정 카드, 스타터 덱, 실용적인 덱 빌딩 조언을 추적하세요."
+  },
+  "characters": {
+    "overviewTitle": "디지몬 알리시온 캐릭터",
+    "overviewDescription": "디지몬 알리시온 등장인물, 파트너 디지몬, 주인공, 길드 인물, 확정된 로스터 정보를 만나 보세요."
+  },
+  "mechanics": {
+    "overviewTitle": "디지몬 알리시온 게임 메커니즘",
+    "overviewDescription": "디지몬 알리시온의 카드 전투, 덱 비율, 가챠 시스템, 티어 리스트 판단 기준, 변화하는 메타를 배우세요."
+  },
+  "platforms": {
+    "overviewTitle": "디지몬 알리시온 플랫폼",
+    "overviewDescription": "iOS, Android, PC용 디지몬 알리시온 출시 정보와 모바일 시스템 요구 사항, 사전 등록 링크를 확인하세요."
+  },
+  "community": {
+    "overviewTitle": "디지몬 알리시온 커뮤니티",
+    "overviewDescription": "디지몬 알리시온 베타 플레이 보고, 공식 Discord, Reddit과 소셜 채널의 커뮤니티 논의를 따라가세요."
+  },
+  "media": {
+    "overviewTitle": "디지몬 알리시온 미디어",
+    "overviewDescription": "Lacuna, 캐릭터, 카드 전투를 다루는 디지몬 알리시온 트레일러, 게임플레이 분석, 스토리 공략 영상을 시청하세요."
+  },
+  "shared": {
+    "wikiNavigation": "위키 탐색",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "preRegister": "사전 등록",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 읽기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 이용 가능한 가이드가 없습니다. 곧 다시 확인해 주세요."
+  },
+  "footer": {
+    "aboutTitle": "디지몬 알리시온 위키",
+    "about": "디지몬 알리시온 위키는 카드 목록, 덱 빌딩, 전투 메커니즘, 출시 업데이트, 필수 게임 지식을 다루는 독립 팬 제작 가이드 허브입니다. 신규 플레이어와 숙련 플레이어 모두에게 유용한 정보를 제공합니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 디지몬 알리시온 위키. Bandai Namco Entertainment, Toei Animation, 공식 디지몬 알리시온 팀과 제휴하지 않습니다.",
+    "description": "전략적인 디지몬 전투, 덱 빌딩, Digimon Liberator 세계관의 카드를 즐기는 무료 모바일 카드 게임입니다.",
+    "playGame": "iOS 및 Android 사전 등록",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "officialX": "공식 X",
+    "vvBuilder": "덱 빌딩 가이드",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "카드 가이드",
+    "bossGuides": "전투 가이드",
+    "buildGuide": "덱 빌드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관"
+  }
+}

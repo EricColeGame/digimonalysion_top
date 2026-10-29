@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@digimontcgen",
     twitter: "https://x.com/DIGIMON_ALYSION",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko", "es"],
   defaultLocale: "en",
 };
