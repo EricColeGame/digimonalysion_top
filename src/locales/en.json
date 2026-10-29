@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Digimon Alysion Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Complete the guided tutorial, learn the shared memory gauge, and build your first Digimon Alysion deck with a clear plan."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Card Battle Basics",
+          "description": "Master the battle screen by protecting your security stack, building digivolution stacks, and spending shared memory without handing your opponent a free turn."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Deck Building",
+          "description": "Build a focused 50-card deck around one evolution line, check the cost curve, and let the free daily pack fill gaps."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Tier List and Meta",
+          "description": "Use S, A, B, and C criteria to judge cards and archetypes by consistency, tempo, resource advantage, and flexibility."
         }
       ]
     },
@@ -62,237 +62,315 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Card Battle Tutorial",
+        "Deck Builder",
+        "Pre-Registration"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Learn the battle screen, build your first deck, and follow a practical first-week roadmap in Digimon Alysion.",
+          "href": "/guide/digimon-alysion-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Card Battle Tutorial",
+          "description": "Understand shared memory, digivolution stacks, security, and the first-session flow in Digimon Alysion.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Meta",
+          "title": "Tier List Framework",
+          "description": "Compare Digimon Alysion cards and archetypes with consistent S, A, B, and C evaluation criteria.",
+          "href": "/mechanics/digimon-alysion-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Deck Builder Guide",
+          "description": "Plan card roles, cost curves, copy counts, and a repeatable testing routine for Digimon Alysion decks.",
+          "href": "/mechanics/digimon-alysion-deck-builder"
+        },
+        {
+          "badge": "New",
+          "title": "Card List Tracker",
+          "description": "Track confirmed Digimon Alysion cards and organize every reveal by type, level, cost, and source.",
+          "href": "/cards/digimon-alysion-card-list"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Characters and Digimon",
+          "description": "Meet Kanata Hondo, Futre, Valner Dragnogh, and GEMMON in the Digimon Alysion story.",
+          "href": "/characters/digimon-alysion-characters"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Story",
+          "title": "Story Mode Guide",
+          "description": "Explore Lacuna, the Digimon Liberator campaign, and the characters behind the story battles.",
+          "href": "/guide/digimon-alysion-story-mode"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Rewards",
+          "title": "Pre-Registration Guide",
+          "description": "See the Digimon Alysion pre-registration steps, milestone rewards, and launch delivery details.",
+          "href": "/guide/digimon-alysion-pre-registration"
+        },
+        {
+          "badge": "Launch",
+          "title": "Release Date Guide",
+          "description": "Review the confirmed Digimon Alysion platforms, pre-registration status, and launch timeline.",
+          "href": "/guide/digimon-alysion-release-date"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Digimon Alysion?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Digimon Alysion is Bandai's free-to-play online card game for mobile, set in the metaverse space Lacuna. Players enter the world through a full-dive T.A.L.E. headset, carry their collection in a D-STORAGE deck case, and battle in the in-world card game Digimon Liberator.",
+        "The campaign follows Kanata Hondo as she learns Digimon Liberator with her online friend Futre and crosses paths with Valner Dragnogh and the mysterious GEMMON. Digimon Alysion combines guided story battles, ranked play, card collecting, breeding, and deck building on iOS and Android."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Publisher",
+          "value": "Bandai"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "iOS & Android"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Online Card Game"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Price",
+          "value": "Free-to-Play"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Setting",
+          "value": "Lacuna"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Pre-Registration",
+          "value": "Open"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Digimon Alysion Wiki",
+      "description": "Explore Digimon Alysion with beginner guides, card battle mechanics, deck-building advice, character profiles, story coverage, and launch updates.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Digimon Alysion Beginner Guide",
+          "description": "Understand the game's core systems, card battle rules, basic controls, and Story Mode progression with a beginner-friendly walkthrough.",
+          "href": "/guide/digimon-alysion-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Finish the guided tutorial and claim any available pre-registration rewards."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Read every card in the starter deck and identify its win condition."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Play three practice matches to learn the battle screen and turn flow."
+            },
+            {
+              "label": "4",
+              "detail": "Trim the deck to one evolution line and one clear strategy."
+            },
+            {
+              "label": "5",
+              "detail": "Open the free daily pack and log new cards for future builds."
+            },
+            {
+              "label": "6",
+              "detail": "Enter ranked or event play, then adjust three to five cards at a time."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Digimon Alysion Card Battle Guide",
+          "description": "Learn the fundamental rules of Digimon card battles, deck-building concepts, card effects, and strategic decision-making.",
+          "href": "/mechanics/digimon-alysion-card-game-tutorial",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Memory",
+              "detail": "The shared memory gauge decides turn order; overspending hands the remainder to your opponent."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Digivolve",
+              "detail": "Place higher-level cards on top of a Digimon so inherited effects support the stack."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Security",
+              "detail": "Attacks chip the security stack, so applying pressure matters as much as building a board."
+            },
+            {
+              "label": "Breeding",
+              "detail": "Eggs develop in the breeding area and can move into battle when the timing is right."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Digimon Alysion Tier List",
+          "description": "Evaluate cards, Digimon lines, and deck archetypes by consistency, tempo, resource advantage, flexibility, and skill floor.",
+          "href": "/mechanics/digimon-alysion-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Format-defining cards with efficient effects and few bad matchups."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Flexible competitive picks with reliable plans and strong answers."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Solid options that depend on the surrounding meta and matchup spread."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Niche tech choices that solve a specific problem in the right build."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Digimon Alysion Cards and Deck Building",
+          "description": "Explore collectible cards, card types, evolution-related mechanics, and deck-building strategies for effective decks.",
+          "href": "/mechanics/digimon-alysion-deck-builder",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Core",
+              "detail": "Choose one evolution line and make every slot support the deck's main plan."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Curve",
+              "detail": "Keep enough cheap early plays available to avoid dead opening hands."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Copies",
+              "detail": "Run maximum copies of cards central to the strategy and trim situational one-ofs."
+            },
+            {
+              "label": "Testing",
+              "detail": "Change one part, play five matches, and record the turn where each game was lost."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Digimon Alysion Characters and Digimon",
+          "description": "Meet the main characters, their partner Digimon, and the story connections to the Digimon Liberator universe.",
+          "href": "/characters/digimon-alysion-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Kanata",
+              "detail": "Kanata Hondo is a cheerful casual gamer who is new to card games."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Futre",
+              "detail": "Futre is Kanata's online friend and appears to be hiding a secret."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Valner",
+              "detail": "Valner Dragnogh leads the Di:WO guild, which advocates for Digimon freedom."
+            },
+            {
+              "label": "GEMMON",
+              "detail": "GEMMON is a mysterious snow-white Digimon with a unique gem on its forehead."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Digimon Alysion Codes and Rewards",
+          "description": "Review pre-registration reward milestones, campaign bonuses, and how launch rewards reach your in-game mailbox.",
+          "href": "/guide/digimon-alysion-pre-registration",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "50K",
+              "detail": "Pack Ticket [BD-01] x10 unlocks at 50,000 registrations."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "100K",
+              "detail": "The BD1-02 Gemmon card unlocks at 100,000 registrations."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "150K",
+              "detail": "The BT1-044 MetalGarurumon card unlocks at 150,000 registrations."
+            },
+            {
+              "label": "200K",
+              "detail": "The BT1-025 WarGreymon card unlocks at 200,000 registrations."
+            },
+            {
+              "label": "Mail",
+              "detail": "Campaign rewards arrive through in-game mail when Digimon Alysion releases."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Digimon Alysion Story Mode Guide",
+          "description": "Follow the Story Mode premise, key characters, progression structure, and narrative features across Lacuna.",
+          "href": "/guide/digimon-alysion-story-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lacuna",
+              "detail": "Lacuna is the metaverse hub where Digimon Alysion players gather and compete."
+            },
+            {
+              "label": "Liberator",
+              "detail": "Digimon Liberator is the in-world card game at the center of the campaign."
+            },
+            {
+              "label": "Campaign",
+              "detail": "Story battles unlock chapters and teach the card pool through short sessions."
+            },
+            {
+              "label": "Kanata",
+              "detail": "Kanata Hondo enters Lacuna after an invitation from her online friend Futre."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Digimon Alysion Release Date and Pre Registration",
+          "description": "Check the announced release window, supported mobile platforms, pre-registration steps, and campaign rewards.",
+          "href": "/guide/digimon-alysion-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "iOS",
+              "detail": "Pre-register for Digimon Alysion on the App Store for iPhone and iPad."
+            },
+            {
+              "label": "Android",
+              "detail": "Pre-register for Digimon Alysion on Google Play for Android devices."
+            },
+            {
+              "label": "Launch",
+              "detail": "Bandai has not announced a specific launch date; the planned release window is 2026."
+            },
+            {
+              "label": "Mail",
+              "detail": "Pre-registration rewards are delivered through in-game mail at launch."
             }
           ]
         }
@@ -300,27 +378,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Digimon Alysion.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Digimon Alysion?",
+          "answer": "Digimon Alysion is Bandai's free-to-play mobile online card game set in the metaverse space Lacuna. Players collect cards, build decks, and battle in the in-world game Digimon Liberator while following Kanata Hondo's story."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Digimon Alysion free to play?",
+          "answer": "Yes. Digimon Alysion is free to download and play with optional in-app purchases. The game also offers a free daily pack that helps new players expand their collection without spending."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Do I need card game experience to play Digimon Alysion?",
+          "answer": "No. Digimon Alysion includes a guided tutorial that teaches card layouts, card usage, shared memory, digivolution, and battle basics before you move into ranked play."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "When can I play Digimon Alysion?",
+          "answer": "Digimon Alysion is planned for release in 2026, and pre-registration is open on iOS and Android. Bandai has not announced a specific launch date, and pre-registration rewards arrive through in-game mail at release."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does deck building work in Digimon Alysion?",
+          "answer": "Digimon Alysion deck building starts with a focused 50-card deck built around one evolution line. Check the cost curve, keep enough cheap early plays, and test changes in blocks of matches before entering ranked play."
         }
       ]
     },
@@ -337,7 +415,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "preRegister": "Pre-Register",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
